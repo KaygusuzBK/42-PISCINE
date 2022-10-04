@@ -2,7 +2,7 @@
 
 [![bkaygusu's 42 stats](https://badge42.vercel.app/api/v2/cl6nezdek00060hml21ixm9m8/stats?cursusId=9&coalitionId=246)](https://github.com/JaeSeoKim/badge42)
 
-[![bkaygusu's 42 C Piscine Shell 00 Score](https://badge42.vercel.app/api/v2/cl6nezdek00060hml21ixm9m8/project/2672479)](https://github.com/JaeSeoKim/badge42)
+<H3>Shell 00 Score</H3> <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6nezdek00060hml21ixm9m8/project/2672479" alt="bkaygusu's 42 C Piscine Shell 00 Score" /></a>
 
 [![bkaygusu's 42 C Piscine C 00 Score](https://badge42.vercel.app/api/v2/cl6nezdek00060hml21ixm9m8/project/2677233)](https://github.com/JaeSeoKim/badge42)
 
