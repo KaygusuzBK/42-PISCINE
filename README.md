@@ -5,7 +5,7 @@
 
 <H3>Shell 00 SCORE: <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6nezdek00060hml21ixm9m8/project/2672479" alt="bkaygusu's 42 C Piscine Shell 00 Score" /></a></H3> 
 
-<H3> C00 SCORE: [![bkaygusu's 42 C Piscine C 00 Score](https://badge42.vercel.app/api/v2/cl6nezdek00060hml21ixm9m8/project/2677233)](https://github.com/JaeSeoKim/badge42)</H3>
+<H3> C00 SCORE: <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6nezdek00060hml21ixm9m8/project/2677233" alt="bkaygusu's 42 C Piscine C 00 Score" /></a></H3>
 
 <H3> C01 SCORE: [![bkaygusu's 42 C Piscine C 01 Score](https://badge42.vercel.app/api/v2/cl6nezdek00060hml21ixm9m8/project/2685689)](https://github.com/JaeSeoKim/badge42) </H3>
 
