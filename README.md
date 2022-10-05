@@ -29,10 +29,10 @@
 
 
 
-<H3 EXAM 00 SCORE: <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6nezdek00060hml21ixm9m8/project/2691613" alt="bkaygusu's 42 C Piscine Exam 00 Score" /></a> </H3>
+<H3 EXAM 00 SCORE: ><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6nezdek00060hml21ixm9m8/project/2691613" alt="bkaygusu's 42 C Piscine Exam 00 Score" /></a> </H3>
 
 <H3 EXAM 01 SCORE: ><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6nezdek00060hml21ixm9m8/project/2695603" alt="bkaygusu's 42 C Piscine Exam 01 Score" /></a></H3>
 
 <H3 EXAM 02 SCORE: ><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6nezdek00060hml21ixm9m8/project/2706572" alt="bkaygusu's 42 C Piscine Exam 02 Score" /></a></H3>
 
-<H3 FİNAL EXAM SCORE >[<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6nezdek00060hml21ixm9m8/project/2715301" alt="bkaygusu's 42 C Piscine Final Exam Score" /></a></H3>
+<H3 FİNAL EXAM SCORE ><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6nezdek00060hml21ixm9m8/project/2715301" alt="bkaygusu's 42 C Piscine Final Exam Score" /></a></H3>
