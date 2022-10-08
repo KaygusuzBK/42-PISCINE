@@ -23,7 +23,7 @@
 
 <H3> C08 SCORE: <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6nezdek00060hml21ixm9m8/project/2713572" alt="bkaygusu's 42 C Piscine C 08 Score" /></a> </H3>
 
-<H3 C09 SCORE: ><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6nezdek00060hml21ixm9m8/project/2714861" alt="bkaygusu's 42 C Piscine C 09 Score" /></a></H3>
+<H3> C09 SCORE: <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6nezdek00060hml21ixm9m8/project/2714861" alt="bkaygusu's 42 C Piscine C 09 Score" /></a></a></H3>
 
 <H3 PİSCİNE BSQ SCORE: ><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6nezdek00060hml21ixm9m8/project/2711159" alt="bkaygusu's 42 C Piscine BSQ Score" /></a> </H3>
 
