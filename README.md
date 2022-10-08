@@ -1,6 +1,6 @@
 <H1 align= "center"># 42-Piscine</H1>
 
-<a align = "center" href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6nezdek00060hml21ixm9m8/stats?cursusId=9&coalitionId=246" alt="bkaygusu's 42 stats" /></a>
+<p align = "center" href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl6nezdek00060hml21ixm9m8/stats?cursusId=9&coalitionId=246" alt="bkaygusu's 42 stats" /></p>
 
 <H3> Shell 00 SCORE: <a href="https://github.com/KaygusuzBK/42-Piscine/tree/main/Shell00"><img src="https://badge42.vercel.app/api/v2/cl6nezdek00060hml21ixm9m8/project/2672479" alt="bkaygusu's 42 C Piscine Shell 00 Score" /></a></H3> 
 
