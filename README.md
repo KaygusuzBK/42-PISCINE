@@ -1,5 +1,3 @@
-Üzgünüm, ancak verilen bağlantıyı takip edemiyorum çünkü internet üzerindeki gerçek zamanlı içeriği görüntüleme yeteneğim yok. Ancak, size bir "42-Piscine" adlı GitHub deposu için bir README örneği sağlayabilirim:
-
 ```
 # 42 Piscine
 
